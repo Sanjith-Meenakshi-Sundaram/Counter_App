@@ -1,4 +1,6 @@
 # Counter_App
+https://sanjith-meenakshi-sundaram.github.io/Counter_App/
+
 ## Date: 10/7/2025
 ## Objective:
 To build a live character counter using JavaScript that dynamically displays the number of characters entered into a textarea — similar to what you see in Twitter or feedback forms.
